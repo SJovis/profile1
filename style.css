@@ -107,7 +107,8 @@ i:hover {
 }
 
 hr {
-  border-top: 2px solid #ff7620;
-  
-  width: 70%;
+  width: 80%;
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(239, 131, 84, 1), rgba(0, 0, 0, 0));
 }
